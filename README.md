@@ -1,0 +1,3 @@
+# POLS 2972Q: Quantitative Analysis in Political Science
+
+This repository contains course materials for my undergraduate-level quantitative analysis in political science course. In this class, we cover the fundamentals of empirical research in political science including causal inference, summary statistics, data visualization, and regression. Additionally, we learn how to work with data using `R` and `RStudio`. You can find the course website [here](https://byersjs.github.io/POLS-2972Q/). 
