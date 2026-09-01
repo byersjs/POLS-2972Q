@@ -8,11 +8,11 @@ date: today
 
 Welcome to our course website! Here you can find links to everything you'll need this semester:
 
--   The course [syllabus](https://byersjs.github.io/POLS-2972Q-Syllabus/)
+-   The course [syllabus](https://www.jasonsbyers.com/POLS-2972Q-Syllabus/)
 
 -   Submit assignments at our course [HuskyCT page](https://huskyct.uconn.edu) (mortarboard icon in the upper right).
 
--   I will post code, data, and lecture notes on the course [GitHub repository](https://github.com/byersjs/POLS-2972Q) (the octocat icon in the upper right).
+-   I will post code, data, and lecture notes on the course [GitHub repository](https://www.jasonsbyers.com/POLS-2972Q/) (the octocat icon in the upper right).
 
 # Course Description
 
@@ -42,9 +42,7 @@ To maximize access to this class, we will use some textbooks, videos, and other 
 
 -   Primary Text (R4DS): Wickham, Hadley, Mine Cetinkaya-Rundel, and Garrett Grolemund. 2023. [R for Data Science: Import Tidy, Transform, Visualize, and Model Data.](https://r4ds.hadley.nz) 2nd Edition. O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
 
-**Reference Texts** 
-
-<br>
+**Reference Texts** <br>
 
 -   Reference Text (HOPR): Grolemund, Garrett. 2014. [Hands-On Programming with R: Write Your Own Functions and Simulations.](https://rstudio-education.github.io/hopr/) O'Reilly Media. This book is freely available online. It is also available in paperback, if you prefer a hard copy. Warning: some content and the numbering system differs between print and online versions; I will exclusively refer to the free online version.
 
